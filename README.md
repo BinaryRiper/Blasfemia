@@ -11,7 +11,7 @@
 |NUMPAD 4 | Lagrimas de Enmienda infinitas
 |FIN | Desactivar cheats
 
-[Download link] <https://github.com/BinaryRiper/Blasfemia/releases/download/v.1.0/Blasfemia.v.1.0.exe>
+[Link de descarga] <https://github.com/BinaryRiper/Blasfemia/releases/download/v.1.0/Blasfemia.v.1.0.exe>
 
 *Penitente en el desvelo...*  
 <img src="https://github.com/BinaryRiper/Blasfemia/blob/main/media/abjuration.gif">
