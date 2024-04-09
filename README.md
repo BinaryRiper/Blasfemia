@@ -1,7 +1,7 @@
 # Blasfemia  
 ###### v.1.0 hack by BinaryRiper for Blasphemous v. 4.0.67 - DLC3     
 
-<img src="https://github.com/BinaryRiper/Blasfemia/blob/main/media/blasphemous.jpe" width="300" height="300">  
+<img src="https://github.com/BinaryRiper/Blasfemia/blob/main/media/blasphemous.jpg" width="300" height="300">  
 
 | KEYS  | HACK |
 | -------- |:--------:|
